@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello from conflict A!" << endl;
+    cout << "Hello from conflict A and B resolved!" << endl;
     cout << "I am learning Git and GitHub!" << endl;
     cout<<"third line"<< endl;
     cout << "Working on my first branch!" << endl;
