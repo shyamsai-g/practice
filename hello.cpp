@@ -7,6 +7,7 @@ int main() {
     cout<<"third line"<< endl;
     cout << "Working on my first branch!" << endl;
     cout << "This change belongs to feature branch!" << endl;
+    cout << "Welcome to my GitHub Flow practice!" << endl;
     
 
     return 0;
